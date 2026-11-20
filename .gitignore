@@ -1,0 +1,21 @@
+# logs and local evidence
+*.log
+*.jsonl
+*.csv
+*.png
+*.jpg
+*.zip
+
+# TwinCAT build output
+_Boot/
+bin/
+obj/
+*.tmc
+*.tpy
+*.plcproj.user
+*.tsproj.user
+
+# PowerShell / editor
+.vscode/
+.idea/
+*.suo
